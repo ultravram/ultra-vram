@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ultravram.com/logo-512.png" alt="Ultra-VRAM AI Logo" width="130" />
+  <img src="https://ultravram.com/logo_uv.jpg" alt="Ultra-VRAM AI Logo" width="130" />
 </p>
 
 <h1 align="center">⚡ Ultra-VRAM AI</h1>
